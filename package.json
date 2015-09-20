@@ -1,0 +1,23 @@
+{
+  "name": "delta-list",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/delta-list.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/delta-list/issues"
+  },
+  "homepage": "https://github.com/mafintosh/delta-list"
+}
