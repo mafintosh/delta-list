@@ -1,7 +1,7 @@
 {
   "name": "delta-list",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Data structure that maps an integer list to a list of relative integer deltas",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
