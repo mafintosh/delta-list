@@ -2,11 +2,11 @@
 
 Data structure that maps an integer list to a list of relative integer deltas
 
-[![build status](http://img.shields.io/travis/mafintosh/delta-list.svg?style=flat)](http://travis-ci.org/mafintosh/delta-list)
-
 ```
 npm install delta-list
 ```
+
+[![build status](http://img.shields.io/travis/mafintosh/delta-list.svg?style=flat)](http://travis-ci.org/mafintosh/delta-list)
 
 ## Usage
 
