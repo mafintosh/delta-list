@@ -16,3 +16,10 @@ tape('unpacks', function (t) {
   t.same(delta.unpack([1, 1, 0, 2, 1]), [1, 2, 2, 4, 5])
   t.end()
 })
+
+tape('inline', function (t) {
+  var list = [1, 2, 3, 4, 5]
+  t.same(delta.pack(list, list), [1, 1, 1, 1, 1])
+  t.same(delta.unpack(list, list), [1, 2, 3, 4, 5])
+  t.end()
+})
